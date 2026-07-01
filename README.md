@@ -1,8 +1,4 @@
-<h2 align="center">
-  ANJALI KUMARI
-  <br><a href="http://anjaliaks.github.io/Mysite/" target="_blank">🔗anjaliaks</a>
-</h2>
-<br/>
+
 
 
 
